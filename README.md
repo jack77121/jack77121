@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi everyone :wave:
+I'm Jack
+- 🔭 I’m currently developing some features and killing the bugs at the same w/ coffee
+- 🌱 I’m currently learning chakra UI
+- 📫 You can reach through <a href="https://twitter.com/100rabhcsmc" target="blank"><img src='https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=red'></a>
+- ⚡ Fun fact: badminton
 
 <!--
 **jack77121/jack77121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
